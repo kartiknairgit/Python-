@@ -11,3 +11,6 @@ Specs include
 -- Interactive gameplay in text format 
 
 2 - 
+-- Game dev 
+-- movements 
+-- bug handling 
