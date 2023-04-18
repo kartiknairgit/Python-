@@ -1,2 +1,0 @@
-Nafi - perceptron
-Olivia - LogRegression
